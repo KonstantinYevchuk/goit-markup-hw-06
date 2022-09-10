@@ -498,8 +498,6 @@ p {
 }
 /* Form */
 .footer-form {
-  display: inline-block;
-  width: 570px;
   margin-left: auto;
 }
 .form-title {
